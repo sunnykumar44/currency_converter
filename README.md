@@ -1,1 +1,2 @@
-# My JS first trial
+# Rock Paper Scissors Game
+
